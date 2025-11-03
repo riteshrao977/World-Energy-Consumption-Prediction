@@ -12,7 +12,7 @@ Help beginners understand:
 
 3.How to visualize trends over time
 
-4.How to build a basic ML model (Linear Regression)
+4.How to build a basic ML model 
 
 5.How to make and display predictions
 
